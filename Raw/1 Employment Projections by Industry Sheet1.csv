@@ -3,12 +3,8 @@ Area Name,Industry Code,Industry Group,Industry Title,2021,2030,Net Growth,Annua
 North Carolina,000671,Sub-Sector,"Total Self Employed and Unpaid Family Workers, All Jobs","300,914","312,171","11,257",0.4%,3.7%,*
 North Carolina,111000,Sub-Sector,Crop Production,"19,496","19,977",481,0.3%,2.5%,706.00  $
 North Carolina,112000,Sub-Sector,Animal Production and Aquaculture,"22,930","21,171","-1,759",-0.9%,-7.7%,855.00  $
-North Carolina,113000,Sub-Sector,Forestry and Logging,*,*,*,-0.1%,*,*
-North Carolina,114000,Sub-Sector,"Fishing, Hunting and Trapping",*,*,*,0.6%,*,*
 North Carolina,115000,Sub-Sector,Support Activities for Agriculture and Forestry,"4,095","4,225",130,0.3%,3.2%,887.00  $
-North Carolina,211000,Sub-Sector,Oil and Gas Extraction,*,*,*,0.0%,*,*
 North Carolina,212000,Sub-Sector,Mining (except Oil and Gas),"2,876","2,941",65,0.2%,2.3%,"1,380.00  $"
-North Carolina,213000,Sub-Sector,Support Activities for Mining,*,*,*,2.4%,*,*
 North Carolina,221000,Sub-Sector,Utilities,"14,394","13,225","-1,169",-0.9%,-8.1%,"1,823.00  $"
 North Carolina,236000,Sub-Sector,Construction of Buildings,"53,655","56,515","2,860",0.6%,5.3%,"1,406.00  $"
 North Carolina,237000,Sub-Sector,Heavy and Civil Engineering Construction,"34,677","38,777","4,100",1.2%,11.8%,"1,268.00  $"
@@ -54,8 +50,6 @@ North Carolina,482000,Sub-Sector,Rail Transportation,"3,026","3,150",124,0.4%,4.
 North Carolina,483000,Sub-Sector,Water Transportation,237,251,14,0.6%,5.9%,"1,071.00  $"
 North Carolina,484000,Sub-Sector,Truck Transportation,"48,931","53,884","4,953",1.1%,10.1%,"1,064.00  $"
 North Carolina,485000,Sub-Sector,Transit and Ground Passenger Transportation,"5,294","6,486","1,192",2.3%,22.5%,717.00  $
-North Carolina,486000,Sub-Sector,Pipeline Transportation,*,*,*,0.6%,*,*
-North Carolina,487000,Sub-Sector,Scenic and Sightseeing Transportation,*,*,*,2.2%,*,*
 North Carolina,488000,Sub-Sector,Support Activities for Transportation,"17,517","20,052","2,535",1.5%,14.5%,"1,185.00  $"
 North Carolina,491100,Sub-Sector,Postal Service,"19,536","19,019",-517,-0.3%,-2.6%,"1,264.00  $"
 North Carolina,492000,Sub-Sector,Couriers and Messengers,"31,373","36,879","5,506",1.8%,17.6%,761.00  $
@@ -66,11 +60,9 @@ North Carolina,515000,Sub-Sector,Broadcasting (except Internet),"5,852","6,402",
 North Carolina,517000,Sub-Sector,Telecommunications,"25,674","27,159","1,485",0.6%,5.8%,"1,671.00  $"
 North Carolina,518000,Sub-Sector,"Data Processing, Hosting and Related Services","10,344","11,316",972,1.0%,9.4%,"2,274.00  $"
 North Carolina,519000,Sub-Sector,Other Information Services,"3,160","3,529",369,1.2%,11.7%,"2,170.00  $"
-North Carolina,521000,Sub-Sector,Monetary Authorities-Central Bank,*,*,*,0.0%,*,*
 North Carolina,522000,Sub-Sector,Credit Intermediation and Related Activities,"111,848","120,357","8,509",0.8%,7.6%,"2,295.00  $"
 North Carolina,523000,Sub-Sector,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities","27,828","32,600","4,772",1.8%,17.1%,"3,136.00  $"
 North Carolina,524000,Sub-Sector,Insurance Carriers and Related Activities,"66,521","71,551","5,030",0.8%,7.6%,"1,719.00  $"
-North Carolina,525000,Sub-Sector,"Funds, Trusts, and Other Financial Vehicles",*,*,*,0.0%,*,*
 North Carolina,531000,Sub-Sector,Real Estate,"49,896","52,438","2,542",0.6%,5.1%,"1,187.00  $"
 North Carolina,532000,Sub-Sector,Rental and Leasing Services,"13,031","13,728",697,0.6%,5.3%,"1,045.00  $"
 North Carolina,533000,Sub-Sector,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),508,561,53,1.1%,10.4%,"1,727.00  $"
@@ -89,9 +81,7 @@ North Carolina,713000,Sub-Sector,"Amusement, Gambling, and Recreation Industries
 North Carolina,721000,Sub-Sector,Accommodation,"37,282","44,872","7,590",2.1%,20.4%,549.00  $
 North Carolina,722000,Sub-Sector,Food Services and Drinking Places,"358,052","417,180","59,128",1.7%,16.5%,405.00  $
 North Carolina,811000,Sub-Sector,Repair and Maintenance,"43,063","48,117","5,054",1.2%,11.7%,919.00  $
-North Carolina,812000,Sub-Sector,Personal and Laundry Services,*,*,*,1.4%,*,*
 North Carolina,813000,Sub-Sector,"Religious, Grantmaking, Civic, Professional, and Similar Organizations","90,558","94,744","4,186",0.5%,4.6%,"1,002.00  $"
-North Carolina,814000,Sub-Sector,Private Households,*,*,*,1.0%,*,*
 North Carolina,999100,Sub-Sector,"Federal Government, Excluding Postal Service","56,963","61,106","4,143",0.8%,7.3%,*
 North Carolina,999200,Sub-Sector,"State Government, Excluding Education and Hospitals","70,948","69,620","-1,328",-0.2%,-1.9%,*
-North Carolina,999300,Sub-Sector,"Local Government, Excluding Education and Hospitals","167,672","181,856","14,184",0.9%,8.5%,*
+North Carolina,999300,Sub-Sector,"Local Government, Excluding Education and Hospitals","167,672","181,856","14,184",0.9%,8.5%,
