@@ -30,8 +30,7 @@ The project utilizes several public datasets, including:
 - **Target Funding**: The chatbot provides information on scholarships and funding opportunities specifically targeted to women, people of color, and students from disadvantaged backgrounds.
 
 ## Video Demonstration
-For a complete overview of the project, including a demo of the dashboard and chatbot in action, please watch the video:
-[Link to Project Video] (https://www.youtube.com/watch?v=AcE_FWvq8ng)
+For a complete overview of the project, including a demo of the dashboard and chatbot in action, please watch the video:(https://www.youtube.com/watch?v=AcE_FWvq8ng)
 
 ---
 
