@@ -4,7 +4,7 @@
 Despite the booming growth of the tech industry in North Carolina, specific demographics such as women, people of color, and those from certain household backgrounds face significant barriers to entering STEM careers. This project aims to address this gap by analyzing public datasets related to employment, occupational outcomes, and education in North Carolina. The ultimate goal is to provide insights and tools that will support students in navigating career opportunities and targeting funding for underrepresented groups.
 
 ### Problem
-- **Key Challenge**: Women, people of color, and individuals from underprivileged backgrounds encounter significant hurdles in accessing and thriving in STEM careers in North Carolina.
+- **Key Challenge**: Women, people of color, and individuals from underprivileged backgrounds encounter significant barriers in accessing and thriving in STEM careers in North Carolina.
 - **Objective**: To leverage data-driven insights to categorize skills, employment trends, and industry needs, ultimately guiding students from underrepresented groups toward fulfilling STEM careers.
 
 ### Solution
